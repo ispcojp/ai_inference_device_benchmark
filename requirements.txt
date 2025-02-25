@@ -1,0 +1,12 @@
+# torch CPU
+# 
+# torch
+# torchvision
+
+# torch GPU
+# import torch
+
+timm
+onnxruntime
+onnx
+scikit-learn

@@ -1,0 +1,5 @@
+/classification/__pycache__/
+/onnx-224/
+/venv/
+*.onnx
+imagenette2*
